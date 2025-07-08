@@ -1,0 +1,88 @@
+# number of polygons
+6
+
+# polygon 1
+# number of sides and number of hinges
+4   1
+# x and y coordinates of vertices (counter-clockwise)
+0   0
+16  0
+16  16
+0   16
+# side number, folding orientation and bending angle of hinges (0 for mountain, 1 for valley)
+2   1   90
+# number of connected hinges (if have)
+# index of connected hinges
+
+# polygon 2
+# number of sides and number of hinges
+4   3
+# x and y coordinates of vertices (counter-clockwise)
+16  0
+32  0
+32  16
+16  16
+# side number, folding orientation and bending angle of hinges (0 for mountain, 1 for valley)
+2   1   90
+3   1   90
+4   1   90
+# number of connected hinges (if have)
+3
+# index of connected hinges
+1   2   3
+
+# polygon 3
+# number of sides and number of hinges
+4   1
+# x and y coordinates of vertices (counter-clockwise)
+16  16
+32  16
+32  32
+16  32
+# side number, folding orientation and bending angle of hinges (0 for mountain, 1 for valley)
+1   1   90
+# number of connected hinges (if have)
+# index of connected hinges
+
+# polygon 4
+# number of sides and number of hinges
+4   3
+# x and y coordinates of vertices (counter-clockwise)
+32  0
+48  0
+48  16
+32  16
+# side number, folding orientation and bending angle of hinges (0 for mountain, 1 for valley)
+1   1   90
+2   1   90
+4   1   90
+# number of connected hinges (if have)
+3
+# index of connected hinges
+1   2   3
+
+# polygon 5
+# number of sides and number of hinges
+4   1
+# x and y coordinates of vertices (counter-clockwise)
+32  -16
+48  -16
+48  0
+32  0
+# side number, folding orientation and bending angle of hinges (0 for mountain, 1 for valley)
+3   1   90
+# number of connected hinges (if have)
+# index of connected hinges
+
+# polygon 6
+# number of sides and number of hinges
+4   1
+# x and y coordinates of vertices (counter-clockwise)
+48  0
+64  0
+64  16
+48  16
+# side number, folding orientation and bending angle of hinges (0 for mountain, 1 for valley)
+4   1   90
+# number of connected hinges (if have)
+# index of connected hinges
